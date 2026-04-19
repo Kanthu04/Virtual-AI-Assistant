@@ -1,0 +1,37 @@
+[
+    {
+        "time": "7:44 P.M.",
+        "message": "drink water",
+        "triggered": true
+    },
+    {
+        "time": "7:53 P.M.",
+        "message": "drink water",
+        "triggered": true
+    },
+    {
+        "time": "10:00 PM",
+        "message": "drink water",
+        "triggered": true
+    },
+    {
+        "time": "12:28 AM",
+        "message": "drink water",
+        "triggered": true
+    },
+    {
+        "time": "12:31",
+        "message": "drink water",
+        "triggered": false
+    },
+    {
+        "time": "12:40 A.M.",
+        "message": "drink water",
+        "triggered": true
+    },
+    {
+        "time": "3:36 P.M.",
+        "message": "drink water",
+        "triggered": true
+    }
+]
