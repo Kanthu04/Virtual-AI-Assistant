@@ -2,7 +2,7 @@ from google import genai
 from assistant.memory_ai import add_message, get_history
 
 # 🔑 Your Gemini API key
-client = genai.Client(api_key="AIzaSyC9QOR9tF2k-whrWCJr9bHOVE38V4hfKJs")
+client = genai.Client(api_key="xxxxxxxxxxxxxxxxxxxxxxx")
 
 MODEL_NAME = "gemini-2.5-flash"
 
